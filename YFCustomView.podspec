@@ -2,7 +2,6 @@ Pod::Spec.new do |s|
     s.name         = "YFCustomView"
     s.version      = "0.0.1"
     s.summary      = "Some commonly used UI components"
-    s.description  = "Some commonly used UI components"
     s.homepage     = "https://github.com/ghostfeng/YFCustomView"
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author             = { "刘永峰" => "1253289963@qq.com" }
