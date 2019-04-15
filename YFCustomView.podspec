@@ -4,7 +4,8 @@ Pod::Spec.new do |s|
     s.summary      = "Some commonly used UI components"
     s.homepage     = "https://github.com/ghostfeng/YFCustomView"
     s.license      = { :type => "MIT", :file => "LICENSE" }
-    s.author             = { "刘永峰" => "1253289963@qq.com" }
+    s.author       = { "刘永峰" => "1253289963@qq.com" }
+    s.platform     = :ios, "8.0"
     s.ios.deployment_target = '8.0'
     s.requires_arc = true
     s.source       = { :git => "https://github.com/ghostfeng/YFCustomView.git", :tag => "#{s.version}" }
